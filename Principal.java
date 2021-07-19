@@ -41,7 +41,6 @@ public class Principal {
         System.out.println("Lista 1: \n" + lista1);
         System.out.println("lista 2: \n" + lista2);
         System.out.println("Intersecao: ");
-        obterTamanhoIntersecao(lista1, lista2, tamanho)
-
+        obterTamanhoIntersecao(lista1, lista2, tamanho);
     }
 }
